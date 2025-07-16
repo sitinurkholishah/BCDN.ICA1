@@ -1,6 +1,6 @@
 # TUGAS 1 BIKIN PROGRAM WAJIB MENGGUNAKAN IF
 ## Program Jam Datang Siswa
-Program ini adalah program sederhana untuk memudahkan admin mendata siswa yang datang tepat waktu atau datang terlambat  berbasis.
+Program ini adalah program sederhana untuk memudahkan admin mendata siswa yang datang tepat waktu atau datang terlambat.
 
 ### Tipe Data & Variabel Yang Digunakan
 ```cpp
